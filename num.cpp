@@ -18,5 +18,6 @@ while(t--)
     int a=7;
     int b=9;
     cout<<a+b;
+    cout<<"HI";
 }
 }
